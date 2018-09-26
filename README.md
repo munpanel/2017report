@@ -21,7 +21,7 @@ The PDF is rendered with FancyClauses, a Model UN document typesetting engine ba
 在技术层面，我们深知开源社区的重要性，更重视每一位有志向走上开发道路的开发者，无论是否在模拟联合国领域。在已经开源 MUNPANEL 代表牌生成中的部分代码后，在未来我们还将开源更多在开发 MUNPANEL 过程中研发的底层基础架构、分析算法、以及面向开发者
 的工具。
 
-在未来的一段时间内，我们将继续整合化平台研发，在自主创建、配置、管理会议与社团功能完善之后，以全新的面貌与更佳的用户体验与大家见面。在那之前，我们将不与任何会议或社团合作。若您关于 MUNPANEL 平台有任何期望或建议，欢迎访问 https://gdgdocs.org/forms/d/e/1FAIpQLSd4H-KOIAHIvOMxAKYeOzTMZCHbtaSR4hxAJRZTNUTvyrGLig/viewform ，您的反馈对我们无比重要。如果您的社团或会议希望在第一时间体验整合平台带来的便利，欢迎访问 https://gdgdocs.org/forms/d/e/1FAIpQLSfDYeuLAdw1JvVTt0Agpx-H9aQgq12-IYJEERANdKqFZbdrPA/viewform 加入 MUNPANEL Trusted Teser 计划，我们将在内测阶段邀请您体验，也更期待您的反馈。如您希望为全新 MUNPANEL 平台贡献一份力，也欢迎您申请加入 MUNPANEL 团队（不仅限于软件开发），详情请访问 https://goo.gl/forms/eX5WF8oNRiMnHZ5m2（需科学地访问并登陆 Google 账号）。
+在未来的一段时间内，我们将继续整合化平台研发，在自主创建、配置、管理会议与社团功能完善之后，以全新的面貌与更佳的用户体验与大家见面。在那之前，我们将不与任何会议或社团合作。若您关于 MUNPANEL 平台有任何期望或建议，欢迎访问 https://gdgdocs.org/forms/d/e/1FAIpQLSd4H-KOIAHIvOMxAKYeOzTMZCHbtaSR4hxAJRZTNUTvyrGLig/viewform ，您的反馈对我们无比重要。如果您的社团或会议希望在第一时间体验整合平台带来的便利，欢迎访问 https://gdgdocs.org/forms/d/e/1FAIpQLSfDYeuLAdw1JvVTt0Agpx-H9aQgq12-IYJEERANdKqFZbdrPA/viewform 加入 MUNPANEL Trusted Teser 计划，我们将在内测阶段邀请您体验，也更期待您的反馈。如您希望为全新 MUNPANEL 平台贡献一份力，也欢迎您申请加入 MUNPANEL 团队（不仅限于软件开发），详情请访问 https://goo.gl/forms/eX5WF8oNRiMnHZ5m2 （需科学地访问并登陆 Google 账号）。
 
 希望这份报告可以带您回顾 MUNPANEL 过去一年的发展，也期待在不久的将来再次和您见面！
 
