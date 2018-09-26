@@ -5,6 +5,8 @@
 
 The PDF is rendered with FancyClauses, a Model UN document typesetting engine based on Markdown, LaTeX, and a few custom syntax. The engine is not yet released.
 
+**For MUNPANELers, please visit [go/2017-report](https://go.corp.munpanel.com/2017-report).**
+
 ## 引言 Intro
 
 从 2016 年 11 月 21 日上线以来，MUNPANEL 已伴随各位开过了 BJMUNC 2017、BJMUNSS 2017 与 ROMUNC 2017。我们很荣幸服务了超过 170 个注册社团、覆盖全国 34 个省的 2000 余名用户的二十余万次访问。
