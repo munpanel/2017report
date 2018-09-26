@@ -13,4 +13,4 @@ This report is released under Creative Commons Attribution-NonCommercial-NoDeriv
 * **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 ##### Notes
-This is a human-readable summary of (and not a substitute for) the license. Please read the full license at \url{https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode}.
+This is a human-readable summary of (and not a substitute for) the license. Please read the full license at https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.
